@@ -10,7 +10,6 @@
 ![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-AI%20Thinker-1F6FEB?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-ESP32-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Monitor%20USB-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Prot%C3%B3tipo%20acad%C3%AAmico-2E8B57?style=for-the-badge)
 
 **[Visão geral](#-visão-geral) · [Fotos](#-galeria-do-protótipo) · [Funcionamento](#-como-funciona) · [Hardware](#-hardware) · [Execução](#-como-executar) · [Código](#-estrutura-do-projeto)**
 
