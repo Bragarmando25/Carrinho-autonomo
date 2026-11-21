@@ -208,25 +208,6 @@ Esses valores pertencem ao código fornecido e são **parâmetros experimentais*
 - A prévia USB é uma **ferramenta de diagnóstico com o carrinho parado**, não um fluxo contínuo para dirigir o robô.
 - O código possui mecanismos de proteção, mas a execução em hardware e a calibração elétrica devem ser verificadas antes de testes em movimento.
 
-## 🔭 Próximos passos
-
-- [ ] Adicionar vídeo demonstrando o robô em uma pista real.
-- [ ] Documentar testes repetidos de retas, cruzamentos e curvas fechadas.
-- [ ] Registrar resultados de tempo de percurso e taxa de recuperação da linha.
-- [ ] Publicar um esquema elétrico revisado da montagem.
-
-## 🎓 Contexto acadêmico
-
-Projeto experimental de **robótica móvel e visão computacional**, desenvolvido para aplicar conhecimentos de **Ciência da Computação**, sistemas embarcados, processamento digital de imagens e controle de movimento.
-
-## 👨‍💻 Autor
-
-**Armando Braga**  
-Ciência da Computação — Universidade Estadual do Norte do Paraná (UENP)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bragarmando25-181717?style=flat-square&logo=github)](https://github.com/Bragarmando25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Armando%20Braga-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/armando-braga-4169b2253/)
-
 ---
 
 <div align="center">
